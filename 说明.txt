@@ -1,0 +1,2 @@
+server是模拟服务端，clinet是模拟客户端。在node环境打开server服务运行client即可。
+node_moudules是依赖包，有多余
